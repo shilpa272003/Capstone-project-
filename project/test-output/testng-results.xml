@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-30T13:06:33 IST" name="Default suite" finished-at="2025-10-30T13:10:42 IST" duration-ms="249381">
+    <groups>
+    </groups>
+    <test started-at="2025-10-30T13:06:33 IST" name="Default test" finished-at="2025-10-30T13:10:42 IST" duration-ms="249381">
+      <class name="com.fry.test.SnapdealEndToEndCombinedTest">
+        <test-method is-config="true" signature="setupreport()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:06:33 IST" name="setupreport" finished-at="2025-10-30T13:06:33 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupreport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:06:33 IST" name="setup" finished-at="2025-10-30T13:06:42 IST" duration-ms="8922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithOTP()[pri:1, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:06:42 IST" name="loginWithOTP" finished-at="2025-10-30T13:07:44 IST" duration-ms="62081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithOTP -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:07:44 IST" name="teardown" finished-at="2025-10-30T13:07:47 IST" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:07:47 IST" name="setup" finished-at="2025-10-30T13:07:49 IST" duration-ms="1886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addBluetoothSpeakerToCart()[pri:2, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:07:49 IST" name="addBluetoothSpeakerToCart" finished-at="2025-10-30T13:08:52 IST" duration-ms="63409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBluetoothSpeakerToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:08:52 IST" name="teardown" finished-at="2025-10-30T13:08:55 IST" duration-ms="2637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:08:55 IST" name="setup" finished-at="2025-10-30T13:08:56 IST" duration-ms="1843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addSportsShoesToCart()[pri:3, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:08:56 IST" name="addSportsShoesToCart" finished-at="2025-10-30T13:09:59 IST" duration-ms="62166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSportsShoesToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:09:59 IST" name="teardown" finished-at="2025-10-30T13:10:01 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:01 IST" name="setup" finished-at="2025-10-30T13:10:03 IST" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartIsEmpty()[pri:4, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:03 IST" name="verifyCartIsEmpty" finished-at="2025-10-30T13:10:28 IST" duration-ms="25324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartIsEmpty -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:28 IST" name="teardown" finished-at="2025-10-30T13:10:32 IST" duration-ms="3480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:32 IST" name="setup" finished-at="2025-10-30T13:10:33 IST" duration-ms="1803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logout()[pri:5, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:33 IST" name="logout" finished-at="2025-10-30T13:10:41 IST" duration-ms="7293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:41 IST" name="teardown" finished-at="2025-10-30T13:10:42 IST" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="flushreport()[pri:0, instance:com.fry.test.SnapdealEndToEndCombinedTest@24313fcc]" started-at="2025-10-30T13:10:43 IST" name="flushreport" finished-at="2025-10-30T13:10:43 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- com.fry.test.SnapdealEndToEndCombinedTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
